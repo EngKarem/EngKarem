@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="bootstrap" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="php" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
 <img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <!-- <img align="left" alt="laravel" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" /> -->
 
 <img align="left" alt="Git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
