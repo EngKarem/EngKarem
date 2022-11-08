@@ -1,8 +1,8 @@
  ### Hi there, I’m Karem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... -->
 
 <!---
 EngKarem/EngKarem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
