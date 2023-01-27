@@ -28,13 +28,13 @@ You can click the Preview link to take a look at your changes.
 <!-- <img align="left" alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
 <!-- <img align="left" alt="cplusplus" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /> -->
-<img alt="node.js" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" class="hoverZoomLink">
+<img align="left" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667" alt="node.js" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 
-<img alt="express.js" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
+<img align="left" src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" alt="express.js" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
 
 <img align="left" alt="PostgreSQL" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
 
 <img align="left" alt="python" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
 
