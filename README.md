@@ -5,7 +5,7 @@
 - 📫 How to reach me karemmustafa21@gmail.com
 
 ### Connect with me:
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karem-mostafa-044339242/" height="30" width="40" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/karem-mostafa-044339242/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="max-width: 100%;"></a>
 
 <!---
 EngKarem/EngKarem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
