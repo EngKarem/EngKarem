@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with other Node.js developers
 - 📫 How to reach me karemmustafa21@gmail.com
 
-### Connect with me:
+### Social Links:
 <a href="https://www.linkedin.com/in/karem-mostafa-044339242/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="max-width: 100%;"></a>
 
 <!---
