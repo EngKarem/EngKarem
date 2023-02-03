@@ -1,7 +1,7 @@
  ## Hi there, I’m Karem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate with other Node.js developers
+- 💞️ I’m looking to collaborate on new real project
 - 📫 How to reach me karemmustafa21@gmail.com
 - My Codepen https://codepen.io/karem22
 
