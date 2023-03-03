@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I’m Karem Mostafa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
-<img align="right" alt=" downloading..." src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif" width="400" height="300" />
+<img align="right" alt=" downloading..." src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif" width="400" height="200" />
 
 - 👀 I’m interested in Web Development
 - 💻 learning in faculty of Computers and AI in Cairo University
