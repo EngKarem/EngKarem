@@ -47,6 +47,4 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="jetbrains" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" />
 
 <br><br>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngKarem&show_icons=true&locale=en&layout=compact" alt="EngKarem" /></p>
--->
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngKarem&show_icons=true&locale=en&layout=compact" alt="EngKarem" /></p>
