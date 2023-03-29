@@ -10,7 +10,7 @@
 
 
 ### Social Links:
-<a href="https://www.linkedin.com/in/karem-mostafa-044339242/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/karem-mostafa-044339242/"><img align="center" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg alt="LinkedIn" height="30" width="40" style="max-width: 100%;"></a>
 
 <!---
 EngKarem/EngKarem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="bootstrap" width="40px" height="40px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
 
-<img align="left" alt="php" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
+<img align="left" alt="php" width="40px" height="40px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
 
 <img align="left" alt="JavaScript" width="40px" height="40px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
 
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="PostgreSQL" width="40px" height="40px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
 
-<img align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="java" width="40" height="40">
+<img align="left" alt="java" width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Java.svg" >
 
 <img align="left" alt="python" width="40px" height="40px" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
 
