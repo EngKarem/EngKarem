@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="node.js" width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Node.js.svg">
 
-<img align="left" alt="express.js" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
+<img align="left" alt="express.js" width="40" height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png">
 
 <img align="left" alt="PostgreSQL" width="40px" height="40px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
 
