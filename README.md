@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 <img align="left" alt="Html 5" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="Html 5" width="40px" height="40px" src="![image](https://user-images.githubusercontent.com/81931963/228500226-0bde6557-eef8-444c-b474-62a65e685654.png)" />
 <img align="left" alt="Css 3" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="bootstrap" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="php" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
