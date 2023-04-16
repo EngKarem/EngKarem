@@ -10,7 +10,7 @@
 
 
 ### Social Links:
-<a href="https://www.linkedin.com/in/karem-mostafa-044339242/"><img align="center" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg alt="LinkedIn" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/karem-mostafa-044339242/"><img align="center" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="LinkedIn" height="30" width="40" style="max-width: 100%;"></a>
 
 <!---
 EngKarem/EngKarem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
