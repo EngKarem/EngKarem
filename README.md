@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="JavaScript" width="35px" height="35px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
 
-<img align="left" alt="JavaScript" width="35px" height="35px" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
+<img align="left" alt="TypeScript" width="35px" height="35px" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
 
 <img align="left" alt="Git" width="35px" height="35px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
 
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="jetbrains" width="35px" height="35px" src="https://icon.icepanel.io/Technology/svg/JetBrains.svg" />
 
-<img align="left" alt="jetbrains" width="35px" height="35px" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
+<img align="left" alt="postman" width="35px" height="35px" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
 
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngKarem&show_icons=true&locale=en&layout=compact" alt="EngKarem" /></p>
