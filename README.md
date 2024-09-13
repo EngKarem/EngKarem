@@ -3,9 +3,8 @@
 
 - 👀 I’m interested in Web Development
 - 💻 learning in faculty of Computers and AI in Cairo University
-- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on new real project
-- 📫 How to reach me karemmustafa21@gmail.com
+- 📫 How to reach me karemmustafa20@gmail.com
 - My Codepen https://codepen.io/karem22
 
 
