@@ -5,7 +5,6 @@
 - 💻 learning in faculty of Computers and AI in Cairo University
 - 💞️ I’m looking to collaborate on new real project
 - 📫 How to reach me karemmustafa20@gmail.com
-- My Codepen https://codepen.io/karem22
 
 
 ### Social Links:
